@@ -26,7 +26,7 @@ T-Glass v2 is designed for developers and hobbyists who want to explore IoT and 
 
 ### Learn More
 
-[![Showcase](https://raw.githubusercontent.com/0015/T-Glass-Applications/refs/heads/main/misc/t_glass_v2.jpg)](https://youtu.be/lb7yXE_X9qE)
+[![Showcase](https://github.com/0015/T-Glass-Applications/blob/main/misc/t_glass_v2.jpg?raw=true)](https://youtu.be/lb7yXE_X9qE)
 
 
 Check out the [YouTube video](https://youtu.be/lb7yXE_X9qE) for a detailed overview of the pros and cons of T-Glass v1 & v2, along with additional product insights.
