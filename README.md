@@ -33,12 +33,12 @@ Check out the [YouTube video](https://youtu.be/lb7yXE_X9qE) for a detailed overv
 
 ---
 
-## Branch Management
-Each branch in this repository corresponds to a specific application or feature. Check the `README.md` in each branch for detailed information:
+## Project Folder Management
+Each folder in this repository corresponds to a specific application or feature. Check the `README.md` in each project folder for detailed information:
 
 | Branch Name      | Description                                      |
 |------------------|--------------------------------------------------|
-| `main`           | General Information for T-Glass.         |
+| `base`           | General Information for T-Glass.         |
 | `ancs_app` | BLE-based notification system for iOS.  |
 
 ---
