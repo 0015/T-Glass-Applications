@@ -40,6 +40,7 @@ Each folder in this repository corresponds to a specific application or feature.
 |------------------|--------------------------------------------------|
 | `base`           | General Information for T-Glass.         |
 | `ancs_app` | BLE-based notification system for iOS.  |
+| `image_capture_app` | T-Glass BLE App for Image Capture  |
 
 ---
 
