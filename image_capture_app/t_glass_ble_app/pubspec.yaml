@@ -1,0 +1,31 @@
+name: t_glass_ble_app
+description: "T-Glass BLE APP v1"
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  system_tray: ^2.0.3
+  flutter_blue_plus: ^1.35.2
+  shared_preferences: ^2.5.2
+  bitsdojo_window: ^0.1.6
+  image: ^4.5.2
+  screen_capturer: ^0.2.3
+  path_provider: ^2.1.5
+  shell_executor: ^0.1.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
